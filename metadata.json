@@ -1,0 +1,6 @@
+{
+  "name": "Password Strength Analyzer",
+  "description": "A professional, secure, and beautiful full-stack password strength analyzer with live checklists, scoring, entropy calculation, history checks, and a secure password generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
